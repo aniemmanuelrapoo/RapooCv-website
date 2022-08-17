@@ -520,4 +520,13 @@ footer ul li a:hover{
   .categories__left{
     margin-right: 0;
   }
+
+  /* ================ TEMPLATES =============== */
+  .templates{
+    margin-top: 0;
+  }
+
+  .templates__container{
+    grid-template-columns: 1fr 1fr;
+  }
 }
