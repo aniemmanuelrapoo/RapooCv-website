@@ -448,6 +448,7 @@ footer ul li a:hover{
     width: 18rem;
     flex-direction: column;
     gap: 0;
+    display: none;
   }
 
   .nav__menu li{
