@@ -538,4 +538,9 @@ footer ul li a:hover{
   .faq{
     padding: 1.5rem;
   }
+
+  /* ================ FOOTER =============== */
+  .footer__container{
+    grid-template-columns: 1fr 1fr;
+  }
 }
