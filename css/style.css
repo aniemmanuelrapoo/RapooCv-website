@@ -529,4 +529,13 @@ footer ul li a:hover{
   .templates__container{
     grid-template-columns: 1fr 1fr;
   }
+
+  /* ================ FAQS =============== */
+  .faqs__container{
+    grid-template-columns: 1fr;
+  }
+
+  .faq{
+    padding: 1.5rem;
+  }
 }
